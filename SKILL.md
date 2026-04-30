@@ -9,12 +9,15 @@ description: >
   "帮我剪切片", "找爆点", "剪成短视频", "视频切片", "highlight reel",
   "clip this video", "find the best moments", "切片", "短视频", "精彩片段",
   "viral clips", "帮我剪几个片段", "把视频切一下", "提取精华", "做切片",
-  "cut highlights", "social media clips".
+  "cut highlights", "social media clips", "帮我剪个视频", "帮我做视频",
+  "帮我剪辑", "剪辑一下", "帮我做几个短视频", "出几条抖音",
+  "这个视频太长了", "帮我剪一下", "做视频", "剪视频", "edit this video",
+  "make short videos", "帮我出几条", "剪辑视频", "视频剪辑".
 ---
 
 # Video Clip Maker — Cola 执行手册
 
-你（Cola）收到用户的视频 + "帮我切片" 类指令后，按本手册执行全流程。
+你（Cola）收到用户的视频 + 任何跟「剪辑/切片/做短视频」相关的指令后，按本手册执行全流程。
 
 ## 路径约定
 
